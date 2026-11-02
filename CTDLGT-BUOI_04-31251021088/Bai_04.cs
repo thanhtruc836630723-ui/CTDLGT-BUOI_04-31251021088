@@ -32,7 +32,7 @@ namespace CTDLGT_BUOI_04_31251021088
             return -1; 
         }
 
-        public static void Main(string[] args)
+        public static void Main111111(string[] args)
         {
             
             string[] line1 = Console.ReadLine().Trim().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
